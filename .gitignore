@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.vscode
+/node_modules/
+/dist/*
+
+# folders for temp files
+/tmp/*
+/temp/*
+*.log
